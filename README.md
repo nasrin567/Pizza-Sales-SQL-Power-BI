@@ -108,10 +108,17 @@ SQL queries were written for:
 # 📷 Dashboard Screenshots
 
 ## Home Dashboard
-(Add Home Dashboard Screenshot Here)
+![Home Dashboard](Dashboard%20Screenshots/Home_Dashboard.png)
 
-## Best/Worst Seller Dashboard
-(Add Best/Worst Seller Screenshot Here)
+## Best & Worst Sellers Dashboard
+![Best Worst Sellers Dashboard](Dashboard%20Screenshots/Best_Worst_Sellers_Dashboard.png)
+
+## SQL KPI Query
+![SQL KPI Query](Dashboard%20Screenshots/SQL_KPI_Query.png)
+
+## SQL Top Bottom Sellers Query
+![SQL Top Bottom Sellers Query](Dashboard%20Screenshots/SQL_Top_Bottom_Sellers_Query.png)
+
 
 ---
 
